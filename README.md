@@ -5,3 +5,5 @@ This respository contains code examples for the online course [Apache Maven: Beg
 # Mapstruct Maven Project Example
 
 Example Maven project using [MapStruct](http://mapstruct.org/)
+
+one class to onother class mapper cass imlimentation using maven and mapstruct
